@@ -47,11 +47,7 @@ body {
   height: 100%;
 }
 body {
-  background: linear-gradient(
-    to bottom,
-    rgba(0, 5, 10, 0.4) 0%,
-    rgba(0, 0, 0, 0) 100%
-  );
+  background: pink;
   font-family: "Droid Serif", serif;
 } */
 
