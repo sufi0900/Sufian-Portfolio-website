@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter, HashRouter } from "react-router-dom";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -15,8 +15,8 @@ console.log = console.warn = console.error = () => {};
 console.error("Something bad happened.");
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter>
+  <HashRouter>
     <ScrollToTop />
     <App />
-  </BrowserRouter>
+  </HashRouter>
 );
