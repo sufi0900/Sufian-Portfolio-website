@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sufian-Website/static/css/main.29850e32.css",
-    "main.js": "/Sufian-Website/static/js/main.2d40170c.js",
+    "main.js": "/Sufian-Website/static/js/main.8d38d8d1.js",
     "static/media/awkum.gif": "/Sufian-Website/static/media/awkum.a9f0749cb8b4ca121820.gif",
     "static/media/mobile7.gif": "/Sufian-Website/static/media/mobile7.fc35e743f052bbaf5e36.gif",
     "static/media/mobile3.gif": "/Sufian-Website/static/media/mobile3.63c0f084c5937df80c8f.gif",
@@ -38,10 +38,10 @@
     "static/media/slick.woff": "/Sufian-Website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Sufian-Website/index.html",
     "main.29850e32.css.map": "/Sufian-Website/static/css/main.29850e32.css.map",
-    "main.2d40170c.js.map": "/Sufian-Website/static/js/main.2d40170c.js.map"
+    "main.8d38d8d1.js.map": "/Sufian-Website/static/js/main.8d38d8d1.js.map"
   },
   "entrypoints": [
     "static/css/main.29850e32.css",
-    "static/js/main.2d40170c.js"
+    "static/js/main.8d38d8d1.js"
   ]
 }
