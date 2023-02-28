@@ -67,6 +67,9 @@ export default function HideAppBar(props: Props) {
   const contactb = () => {
     navigate("/contact");
   };
+  const homeb = () => {
+    navigate("/");
+  };
   const handleChange = (event: React.SyntheticEvent, newValue: string) => {
     setValue(newValue);
   };
@@ -105,6 +108,7 @@ export default function HideAppBar(props: Props) {
                       window.location.href = "/";
                     }}
                   />
+
                   <Tab
                     value="two"
                     label="About"
@@ -124,6 +128,20 @@ export default function HideAppBar(props: Props) {
                     label="Project"
                     onClick={() => {
                       projectsb();
+                    }}
+                  />
+                  <Tab
+                    value="four"
+                    label="Home2"
+                    onClick={() => {
+                      homeb();
+                    }}
+                  />
+                  <Tab
+                    value="five"
+                    label="Home3"
+                    onClick={() => {
+                      window.location.href = "/Sufian-Website";
                     }}
                   />
 
