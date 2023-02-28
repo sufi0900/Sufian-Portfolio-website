@@ -70,7 +70,7 @@ const App = () => {
         <div>
           <Nav9 />
           <Routes>
-            <Route exact path="/" element={<First />}></Route>
+            <Route exact path="/Sufian-Website" element={<First />}></Route>
             <Route path="/about" element={<Aboutsec />}></Route>
             <Route path="/slider" element={<Slider />}></Route>
             <Route path="/skill" element={<Skill />}></Route>
