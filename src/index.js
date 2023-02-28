@@ -15,8 +15,10 @@ console.log = console.warn = console.error = () => {};
 console.error("Something bad happened.");
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <HashRouter>
-    <ScrollToTop />
-    <App />
-  </HashRouter>
+  <React.StrictMode>
+    <HashRouter>
+      <ScrollToTop />
+      <App />
+    </HashRouter>
+  </React.StrictMode>
 );
