@@ -33,7 +33,7 @@
     "lottie-web": "^5.9.6",
     "material-ui-popup-state": "^5.0.4",
     "mdb-react-ui-kit": "^5.1.0",
-    "mongoose": "^6.7.1",
+    "mongoose": "^6.11.2",
     "rc-pagination": "^3.2.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
