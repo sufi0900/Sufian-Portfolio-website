@@ -132,18 +132,12 @@ export default function HideAppBar(props: Props) {
                   />
                   <Tab
                     value="four"
-                    label="Home2"
+                    label="Home2nd"
                     onClick={() => {
                       homeb();
                     }}
                   />
-                  <Tab
-                    value="five"
-                    label="Home3"
-                    onClick={() => {
-                      window.location.href = "/Sufian-Website";
-                    }}
-                  />
+               
 
                   <BasicPopover />
                 </Tabs>
