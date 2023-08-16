@@ -6,7 +6,7 @@
   "dependencies": {
     "@animxyz/core": "^0.6.6",
     "@emailjs/browser": "^3.7.0",
-    "@fullpage/react-fullpage": "^0.1.28",
+    "@fullpage/react-fullpage": "^0.1.40",
     "@mui/icons-material": "^5.10.9",
     "@mui/x-data-grid": "^5.17.22",
     "@mui/x-data-grid-generator": "^5.17.20",
